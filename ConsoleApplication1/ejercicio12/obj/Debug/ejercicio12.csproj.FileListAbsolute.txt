@@ -1,0 +1,18 @@
+D:\VisualStudio\ConsoleApplication1\ejercicio12\bin\Debug\ejercicio12.exe.config
+D:\VisualStudio\ConsoleApplication1\ejercicio12\obj\Debug\ejercicio12.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ConsoleApplication1\ejercicio12\bin\Debug\ejercicio12.exe
+D:\VisualStudio\ConsoleApplication1\ejercicio12\bin\Debug\ejercicio12.pdb
+D:\VisualStudio\ConsoleApplication1\ejercicio12\obj\Debug\ejercicio12.exe
+D:\VisualStudio\ConsoleApplication1\ejercicio12\obj\Debug\ejercicio12.pdb
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\ejercicio12\bin\Debug\ejercicio12.exe.config
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\ejercicio12\obj\Debug\ejercicio12.exe
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\ejercicio12\obj\Debug\ejercicio12.pdb
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\ejercicio12\bin\Debug\ejercicio12.exe
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\ejercicio12\bin\Debug\ejercicio12.pdb
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\ejercicio12\obj\Debug\ejercicio12.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Cuatri 2\ConsoleApplication1\ejercicio12\bin\Debug\ejercicio12.exe.config
+C:\Users\alumno\Desktop\Cuatri 2\ConsoleApplication1\ejercicio12\obj\Debug\ejercicio12.exe
+C:\Users\alumno\Desktop\Cuatri 2\ConsoleApplication1\ejercicio12\obj\Debug\ejercicio12.pdb
+C:\Users\alumno\Desktop\Cuatri 2\ConsoleApplication1\ejercicio12\bin\Debug\ejercicio12.exe
+C:\Users\alumno\Desktop\Cuatri 2\ConsoleApplication1\ejercicio12\bin\Debug\ejercicio12.pdb
+C:\Users\alumno\Desktop\Cuatri 2\ConsoleApplication1\ejercicio12\obj\Debug\Ejercicio12.csprojResolveAssemblyReference.cache

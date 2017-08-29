@@ -1,0 +1,12 @@
+C:\Users\alumno\Desktop\ConsoleApplication1\clase_4\bin\Debug\clase_4.exe.config
+C:\Users\alumno\Desktop\ConsoleApplication1\clase_4\obj\Debug\clase_4.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ConsoleApplication1\clase_4\bin\Debug\clase_4.exe
+C:\Users\alumno\Desktop\ConsoleApplication1\clase_4\bin\Debug\clase_4.pdb
+C:\Users\alumno\Desktop\ConsoleApplication1\clase_4\obj\Debug\clase_4.exe
+C:\Users\alumno\Desktop\ConsoleApplication1\clase_4\obj\Debug\clase_4.pdb
+C:\Users\Lea\Desktop\ConsoleApplication1\clase_4\bin\Debug\clase_4.exe.config
+C:\Users\Lea\Desktop\ConsoleApplication1\clase_4\obj\Debug\clase_4.exe
+C:\Users\Lea\Desktop\ConsoleApplication1\clase_4\obj\Debug\clase_4.pdb
+C:\Users\Lea\Desktop\ConsoleApplication1\clase_4\bin\Debug\clase_4.exe
+C:\Users\Lea\Desktop\ConsoleApplication1\clase_4\bin\Debug\clase_4.pdb
+C:\Users\Lea\Desktop\ConsoleApplication1\clase_4\obj\Debug\clase_4.csprojResolveAssemblyReference.cache

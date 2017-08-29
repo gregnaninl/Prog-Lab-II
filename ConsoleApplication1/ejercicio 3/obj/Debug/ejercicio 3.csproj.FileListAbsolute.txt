@@ -1,0 +1,6 @@
+D:\VisualStudio\ConsoleApplication1\ejercicio 3\bin\Debug\ejercicio 3.exe.config
+D:\VisualStudio\ConsoleApplication1\ejercicio 3\bin\Debug\ejercicio 3.exe
+D:\VisualStudio\ConsoleApplication1\ejercicio 3\bin\Debug\ejercicio 3.pdb
+D:\VisualStudio\ConsoleApplication1\ejercicio 3\obj\Debug\ejercicio 3.exe
+D:\VisualStudio\ConsoleApplication1\ejercicio 3\obj\Debug\ejercicio 3.pdb
+D:\VisualStudio\ConsoleApplication1\ejercicio 3\obj\Debug\ejercicio 3.csprojResolveAssemblyReference.cache
