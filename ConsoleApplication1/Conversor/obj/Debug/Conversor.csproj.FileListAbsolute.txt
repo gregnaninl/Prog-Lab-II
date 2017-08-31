@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\ConsoleApplication1\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\alumno\Desktop\ConsoleApplication1\Conversor\bin\Debug\Conversor.exe
+C:\Users\alumno\Desktop\ConsoleApplication1\Conversor\bin\Debug\Conversor.pdb
+C:\Users\alumno\Desktop\ConsoleApplication1\Conversor\obj\Debug\Conversor.exe
+C:\Users\alumno\Desktop\ConsoleApplication1\Conversor\obj\Debug\Conversor.pdb
+C:\Users\alumno\Desktop\ConsoleApplication1\Conversor\obj\Debug\Conversor.csprojResolveAssemblyReference.cache
