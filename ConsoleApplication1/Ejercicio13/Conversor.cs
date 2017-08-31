@@ -44,8 +44,24 @@ namespace Ejercicio13
                 }
 
             return binario;
+          }
 
-        
+       
+        public static int BinToDec(string binary)
+        {
+            int exponente = binary.Length - 1;
+            int num_decimal = 0;
+
+            for (int i = 0; i < binary.Length; i++)
+            {
+                if (int.Parse(binary.Substring(i, 1)) == 1)
+                {
+                    num_decimal = num_decimal + int.Parse(System.Math.Pow(2, double.Parse(exponente.ToString())).ToString());
+                }
+                exponente--;
+            }
+            return num_decimal;
         }
+
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio14\bin\Debug\Ejercicio14.exe
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio14\bin\Debug\Ejercicio14.pdb
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio14\obj\Debug\Ejercicio14.exe
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio14\obj\Debug\Ejercicio14.pdb

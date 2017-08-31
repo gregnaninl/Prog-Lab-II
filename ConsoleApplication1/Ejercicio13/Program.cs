@@ -14,7 +14,7 @@ namespace Ejercicio13
             string binario="" ;
             int opcion = 0;
             char seguir = 's';
-            
+           
           
             while (seguir == 's')
             {
@@ -40,7 +40,13 @@ namespace Ejercicio13
 
                         break;
                     case 2:
-                        Console.WriteLine("Case 2");
+                        Console.WriteLine("Ingrese un numero Binario:");
+                        binario = Console.ReadLine();
+                        numero = Conversor.BinToDec(binario);
+                        Console.WriteLine(numero);
+
+
+
                         break;
                     case 3:
                         seguir = 'n';

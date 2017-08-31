@@ -4,3 +4,9 @@ C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio13\bin\Debug\Ej
 C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio13\bin\Debug\Ejercicio13.pdb
 C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio13\obj\Debug\Ejercicio13.exe
 C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio13\obj\Debug\Ejercicio13.pdb
+C:\Users\alumno\Desktop\ConsoleApplication1\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+C:\Users\alumno\Desktop\ConsoleApplication1\Ejercicio13\obj\Debug\Ejercicio13.exe
+C:\Users\alumno\Desktop\ConsoleApplication1\Ejercicio13\obj\Debug\Ejercicio13.pdb
+C:\Users\alumno\Desktop\ConsoleApplication1\Ejercicio13\bin\Debug\Ejercicio13.exe
+C:\Users\alumno\Desktop\ConsoleApplication1\Ejercicio13\bin\Debug\Ejercicio13.pdb
+C:\Users\alumno\Desktop\ConsoleApplication1\Ejercicio13\obj\Debug\Ejercicio13.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio15\bin\Debug\Ejercicio15.exe.config
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio15\bin\Debug\Ejercicio15.exe
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio15\bin\Debug\Ejercicio15.pdb
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio15\obj\Debug\Ejercicio15.csprojResolveAssemblyReference.cache
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio15\obj\Debug\Ejercicio15.exe
+C:\Users\Lea\Documents\UTN\Cuatri_2\ConsoleApplication1\Ejercicio15\obj\Debug\Ejercicio15.pdb
+C:\Users\alumno\Desktop\Cuatri 2\ConsoleApplication1\Ejercicio15\bin\Debug\Ejercicio15.exe.config
+C:\Users\alumno\Desktop\Cuatri 2\ConsoleApplication1\Ejercicio15\obj\Debug\Ejercicio15.exe
+C:\Users\alumno\Desktop\Cuatri 2\ConsoleApplication1\Ejercicio15\obj\Debug\Ejercicio15.pdb
+C:\Users\alumno\Desktop\Cuatri 2\ConsoleApplication1\Ejercicio15\obj\Debug\Ejercicio15.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Cuatri 2\ConsoleApplication1\Ejercicio15\bin\Debug\Ejercicio15.exe
+C:\Users\alumno\Desktop\Cuatri 2\ConsoleApplication1\Ejercicio15\bin\Debug\Ejercicio15.pdb
