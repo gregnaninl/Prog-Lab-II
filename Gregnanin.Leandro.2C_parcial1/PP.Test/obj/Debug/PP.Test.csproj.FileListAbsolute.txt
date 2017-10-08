@@ -1,0 +1,20 @@
+D:\Federico Dávila 2017\Nueva carpeta\PP.Test\PP.Test\bin\Debug\PP.Test.exe.config
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.exe.config
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.exe
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.pdb
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.exe
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.pdb
+C:\Users\alumno\Desktop\Gregnanin.Leandro.2C\PP.Test\bin\Debug\PP.Test.exe.config
+C:\Users\alumno\Desktop\Gregnanin.Leandro.2C\PP.Test\obj\Debug\PP.Test.exe
+C:\Users\alumno\Desktop\Gregnanin.Leandro.2C\PP.Test\obj\Debug\PP.Test.pdb
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\PP.Test\bin\Debug\PP.Test.exe.config
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\PP.Test\obj\Debug\PP.Test.exe
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\PP.Test\obj\Debug\PP.Test.pdb
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\PP.Test\obj\Debug\PP.Test.csprojResolveAssemblyReference.cache
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\PP.Test\bin\Debug\PP.Test.exe
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\PP.Test\bin\Debug\PP.Test.pdb
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\PP.Test\bin\Debug\Apellido.Nombre.Div.dll
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\PP.Test\bin\Debug\EntidadFinanciera.exe
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\PP.Test\bin\Debug\Apellido.Nombre.Div.pdb
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\PP.Test\bin\Debug\EntidadFinanciera.pdb

@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\EntidadFinanciera\bin\Debug\EntidadFinanciera.exe.config
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\EntidadFinanciera\bin\Debug\EntidadFinanciera.exe
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\EntidadFinanciera\bin\Debug\EntidadFinanciera.pdb
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\EntidadFinanciera\obj\Debug\EntidadFinanciera.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\EntidadFinanciera\obj\Debug\EntidadFinanciera.exe
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\EntidadFinanciera\obj\Debug\EntidadFinanciera.pdb
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\EntidadFinanciera\bin\Debug\Apellido.Nombre.Div.dll
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\EntidadFinanciera\bin\Debug\Apellido.Nombre.Div.pdb
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\EntidadFinanciera\obj\Debug\EntidadFinanciera.csprojResolveAssemblyReference.cache
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\EntidadFinanciera\obj\Debug\EntidadFinanciera.exe
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\EntidadFinanciera\obj\Debug\EntidadFinanciera.pdb
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\EntidadFinanciera\bin\Debug\EntidadFinanciera.exe.config
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\EntidadFinanciera\bin\Debug\EntidadFinanciera.exe
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\EntidadFinanciera\bin\Debug\EntidadFinanciera.pdb
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\EntidadFinanciera\bin\Debug\Apellido.Nombre.Div.dll
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\EntidadFinanciera\bin\Debug\Apellido.Nombre.Div.pdb

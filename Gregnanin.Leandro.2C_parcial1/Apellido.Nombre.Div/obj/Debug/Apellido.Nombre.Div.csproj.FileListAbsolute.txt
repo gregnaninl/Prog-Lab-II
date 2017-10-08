@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\Apellido.Nombre.Div\obj\Debug\Apellido.Nombre.Div.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\Apellido.Nombre.Div\bin\Debug\Apellido.Nombre.Div.dll
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\Apellido.Nombre.Div\bin\Debug\Apellido.Nombre.Div.pdb
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\Apellido.Nombre.Div\obj\Debug\Apellido.Nombre.Div.dll
+C:\Users\alumno\Desktop\20171005.PP.2C\PP.Test\Apellido.Nombre.Div\obj\Debug\Apellido.Nombre.Div.pdb
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\Apellido.Nombre.Div\bin\Debug\Apellido.Nombre.Div.dll
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\Apellido.Nombre.Div\bin\Debug\Apellido.Nombre.Div.pdb
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\Apellido.Nombre.Div\obj\Debug\Apellido.Nombre.Div.csprojResolveAssemblyReference.cache
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\Apellido.Nombre.Div\obj\Debug\Apellido.Nombre.Div.dll
+C:\Users\Lea\Desktop\Gregnanin.Leandro.2C\Apellido.Nombre.Div\obj\Debug\Apellido.Nombre.Div.pdb
