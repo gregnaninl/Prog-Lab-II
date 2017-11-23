@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\parcial 2016_II\bin\Debug\parcial 2016_II.exe.config
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\parcial 2016_II\obj\Debug\parcial_2016_II.Form1.resources
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\parcial 2016_II\obj\Debug\parcial_2016_II.Properties.Resources.resources
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\parcial 2016_II\obj\Debug\parcial 2016_II.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\parcial 2016_II\bin\Debug\parcial 2016_II.exe
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\parcial 2016_II\bin\Debug\parcial 2016_II.pdb
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\parcial 2016_II\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\parcial 2016_II\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\parcial 2016_II\obj\Debug\parcial 2016_II.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\parcial 2016_II\obj\Debug\parcial 2016_II.exe
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\parcial 2016_II\obj\Debug\parcial 2016_II.pdb

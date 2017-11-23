@@ -1,0 +1,7 @@
+C:\Users\Lea\AppData\Local\Temporary Projects\Paarcial 2016_II\bin\Debug\Paarcial 2016_II.exe.config
+C:\Users\Lea\Desktop\Parcial 206_II\Paarcial 2016_II\Paarcial 2016_II\bin\Debug\Paarcial 2016_II.exe.config
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\Paarcial 2016_II\bin\Debug\Paarcial 2016_II.exe.config
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\Paarcial 2016_II\bin\Debug\Paarcial 2016_II.exe
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\Paarcial 2016_II\bin\Debug\Paarcial 2016_II.pdb
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\Paarcial 2016_II\obj\Debug\Paarcial 2016_II.exe
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\Paarcial 2016_II\obj\Debug\Paarcial 2016_II.pdb

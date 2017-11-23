@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Parcial 206_II\Paarcial 2016_II\Entidades\obj\Debug\Entidades.pdb
